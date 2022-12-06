@@ -1,0 +1,12 @@
+1. Typescript basics
+2. Compiler and configuration deep dive
+3. working with next gen js code
+4. classes interfaces
+5. advanced types ts features
+6. generics 
+7. decorators
+8. full projects
+9. working with namespaces and modules
+10. webpack and ts
+11. third party libs 
+12. react with ts and node with ts
