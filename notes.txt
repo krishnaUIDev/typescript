@@ -1,4 +1,29 @@
 1. Typescript basics
+    The core primitive types in TypeScript
+        number 1,5.3
+        string "HI"
+        boolean true false
+    Object types
+        object { age: 30 }
+    Array types
+        array [1,2,3]
+    // doestnot have in js
+    Tuple
+      [1,2] fixed length array,  role: [number, string];
+    Enum
+      enum { NEW, OLD}
+      enum Role {
+            ADMIN = 'test',
+            READ_ONLY,
+       }
+    Any
+    union
+         num1: number | string
+    literal types
+    type alias
+        type Combine = number | string;
+      
+
 2. Compiler and configuration deep dive
 3. working with next gen js code
 4. classes interfaces
