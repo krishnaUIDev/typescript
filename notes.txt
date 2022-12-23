@@ -22,11 +22,20 @@
     literal types
     type alias
         type Combine = number | string;
-      
+    void functions
+        if function doesnot return we have to add void as type
+    unknown types
 
 2. Compiler and configuration deep dive
 3. working with next gen js code
 4. classes interfaces
+   Objects 
+    thie things you work with in code
+    Instaces of classes (=based on clasees)
+   Classes
+    Blue print of Objects
+    Define how objects look like, which properties and methods they have
+    classes make creation of multiple similar objects much easier
 5. advanced types ts features
 6. generics 
 7. decorators
