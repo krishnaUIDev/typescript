@@ -37,6 +37,11 @@
     Define how objects look like, which properties and methods they have
     classes make creation of multiple similar objects much easier
 5. advanced types ts features
+    [private, public, readonly, protected,static]
+    private can't access outside of class scope
+    public keys can access from anywhere in class 
+    readOnly
+    protected key variable can be used in inherited classes same as private key but can be used in other classes
 6. generics 
 7. decorators
 8. full projects
